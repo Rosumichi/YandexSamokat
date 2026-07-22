@@ -1,0 +1,14 @@
+﻿# Кэш Python
+__pycache__/
+*.pyc
+
+# Кэш фреймворка тестирования
+.pytest_cache/
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Настройки среды разработки PyCharm / VS Code
+.idea/
+.vscode/
